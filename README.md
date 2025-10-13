@@ -23,7 +23,7 @@ A **fully interactive Excel dashboard** featuring pivot charts, KPIs, and slicer
 
 Here’s a visual preview of the final dashboard 👇
 
-![Dashboard Preview](Dashboardphoto.jpg)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
