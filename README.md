@@ -145,12 +145,10 @@ Age Group = IF(Age<20,"Teen",IF(Age<40,"Adult",IF(Age<60,"Middle Age","Senior"))
 
 ## 👨‍💻 Developed By:
 
-
 <div align="center">
   
 ### **Muhammad Ali**  
 📊 *Data Analyst | Excel • Power BI • Python • SQL*  
-
 
 ### 🤝 Connect With Me  
 
@@ -158,10 +156,8 @@ Age Group = IF(Age<20,"Teen",IF(Age<40,"Adult",IF(Age<60,"Middle Age","Senior"))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-921191370)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-data-analyst)
 
-
 📩 *Let’s collaborate on impactful data analytics projects!*  
 📧 **[Send me an email →](https://mail.google.com/mail/?view=cm&fs=1&to=alikiyani562@gmail.com)**  
-
 
 <sub>© 2025 Muhammad Ali | Built with ❤️ using Markdown & GitHub</sub>
 
