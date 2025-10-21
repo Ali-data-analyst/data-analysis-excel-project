@@ -6,7 +6,6 @@
 
 > A professional **Excel data analytics dashboard** designed to analyze and visualize sales performance, customer segments, and product trends.  
 > This project transforms raw sales data into **business insights** using Excel’s advanced analytics and visualization tools.
-
 ---
 
 ## 🧭 Overview
